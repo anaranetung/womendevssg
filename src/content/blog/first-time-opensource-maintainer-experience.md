@@ -75,7 +75,7 @@ I realized how much I was growing.
 
 I learned not just about **code**, but about **collaboration, kindness**, and what community-driven tech really looks like.
 
-![Issues that matter](https://user-images.githubusercontent.com/78981177/195394193-a7a508e8-431f-4c06-a842-5f3d0940e52c.jpg)
+![Issues that matter](https://raw.githubusercontent.com/gitansha/Assets/refs/heads/main/Issues_20251022_115416_0000.png)
 
 
 ## 💡 What I’ll Take Away
@@ -97,5 +97,3 @@ And that, I think, is what makes open source and this community so special. 💜
 - Github: [https://github.com/gitansha](https://github.com/gitansha "https://github.com/gitansha")
 
 and you can find more from our amazing community at [Women Dev SG](https://www.linkedin.com/company/women-devs-sg/). 💜
-
-
