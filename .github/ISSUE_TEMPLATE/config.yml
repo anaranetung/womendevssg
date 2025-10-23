@@ -1,8 +1,20 @@
 blank_issues_enabled: false
-contact_links:
-  - name: GitHub Community Support
-    url: https://github.com/orgs/community/discussions
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+issue_templates:
+  - name: "✨ Feature Request"
+    about: Suggest an idea for improving Women Dev SG's website
+    title: "[Feature Request]: "
+    labels: enhancement
+    assignees: ""
+    url: .github/ISSUE_TEMPLATE/✨-feature-request.md
+  - name: 🐞 Bug report"
+    about: Report a bug or unexpected behavior in Women Dev SG's website
+    title: "[BUG]: "
+    labels: bug
+    assignees: ""
+    url: .github/ISSUE_TEMPLATE/🐞-bug-report.md
+  - name: 📝 Documentation Improvement"
+    about: Propose updates or improvements to the documentation/blog posts
+    title: "[Docs]: "
+    labels: documentation
+    assignees: ""
+    url: .github/ISSUE_TEMPLATE/📝-documentation-improvement.md
