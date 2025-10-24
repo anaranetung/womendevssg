@@ -66,6 +66,28 @@ Before you dive in:
 - Look for issues tagged with `good first issue` or `help wanted`.  
 - Leave a comment on the issue you'd like to work on, and a maintainer will assign it to you.  
 
+### ❤️ Our Contribution Etiquette
+
+To ensure that everyone has a fair and positive experience, we ask all contributors to follow these guidelines. We are a community focused on providing opportunities, and these rules help us achieve that mission.
+
+**1. Ask Before You Work**
+- Please comment on an issue and ask to be assigned **before** you start working.
+- Do not work on issues that have already been assigned to someone else.
+
+**2. Wait for Assignment**
+- After commenting, please wait for a maintainer to formally assign the issue to you.
+- A maintainer's assignment is the official green light to begin your work.
+
+**3. Respect Our `women-devs-only` Issues**
+- As part of our core mission to empower women in tech, some issues are labeled **`women-devs-only`**.
+- **These issues are strictly reserved to give women developers an opportunity to learn and contribute in a safe, supportive space.** We kindly ask that our allies respect this policy and leave these specific issues for them.
+
+**4. One Issue at a Time**
+- To give everyone a chance, you can only be assigned **one issue at a time** across all WomenDevsSG repositories.
+- Please also ensure that each Pull Request (PR) you submit solves **only one issue**. Do not bundle fixes for multiple issues into a single PR.
+
+**We appreciate your cooperation in helping us build a fair and supportive open-source environment!**
+
 ### Creating an Issue  
 
 If you spot a bug or have an idea that isn’t already listed:  

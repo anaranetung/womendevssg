@@ -1,3 +1,17 @@
+<!--
+❤️ Thank you for your contribution! We appreciate your support.
+To help us review this PR efficiently, please read and complete the checklist below.
+-->
+
+### 📝 Mandatory Pre-Submission Checklist
+
+**Please check each box. Your Pull Request will not be reviewed if you have not confirmed these steps.**
+
+- [ ] **I have been assigned this issue.** I commented on the issue and a maintainer has assigned it to me.
+- [ ] **This PR is focused.** It resolves only the single issue it is linked to. It does not contain fixes for other issues.
+
+**By submitting this PR, I confirm that I have read and followed the contribution guidelines. I understand that PRs that do not meet these requirements may be closed.**
+---
 ## Description
 
 <!-- A clear and concise description of what the pull request does. Include any relevant motivation and background. -->
@@ -26,3 +40,12 @@
 <!-- If this PR is related to an existing issue, link to it here. -->
 
 Closes: #<!-- Issue number, if applicable -->
+
+<!--
+⭐ Show Your Support! ⭐
+
+If you believe in our mission to empower women in tech, please consider starring our repository. It's a free and easy way to show your support, and it helps our community grow!
+
+**How to Star the Repository:**
+Just click the "Star" button at the top-right of the repository page. Thank you!
+-->
